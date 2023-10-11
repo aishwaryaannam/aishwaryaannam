@@ -1,4 +1,4 @@
-
+<img align="center" alt="banner"  src="https://github.com/aishwaryaannam/aishwaryaannam/blob/main/Black%20Elegant%20Personal%20LinkedIn%20Banner%20(2).gif">
 <h1 align="center">Hi 👋, I'm Aishwarya Annam</h1>
 <h3 align="center">A Passionate Computer Science student</h3>
 
